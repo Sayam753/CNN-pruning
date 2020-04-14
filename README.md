@@ -1,4 +1,6 @@
-# This repo contains implementations of CNN pruning techniques - 
-- [X] L1 norm
-- [] L2 norm
+# CNN Pruning
 
+### This repo contains implementations of CNN pruning techniques - 
+
+- [x] L1 norm
+- [ ] L2 norm
